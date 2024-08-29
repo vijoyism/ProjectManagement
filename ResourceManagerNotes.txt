@@ -1,0 +1,20 @@
+Company notes
+Intro
+RM works with the employee for a couple of months and they are in different projects.  
+A week ago, the employee said that he wants to pass ASMT for A4 level. 
+That time they agreed that RM will get the feedback from the project and will be back with it and action plan. 
+RM had a talk with DM and is back to discuss next steps
+
+RM:
+RM got the feedback from the project that the Employee meets expectations, no signs of doing extra and he needs time to grow.
+DM mentioned some non-successful attempts to give the Employee some tasks for extra activities - like investigating new API and propose an architecture for integration solution, like existing ones. Not rocket science, but he refused to take it and preferred to go with coding.
+The Employee has poor cloud knowledge, on a current project devops team usually holds all cloud-related activities
+
+RM goal: agree that employee needs time to prepare and start discussing the action plan
+
+Employee:
+He is A3 with 5 years of experience in_____ and 18 month with EPAM. He is a good A3 and wants to apply A4 because he is sure because of his experience and tenure. He knows the  project feedback that he meets expectation for A3, not more, but  he is not agree. Recently he got tasks for extra activities - like investigate new API and propose an architecture for integration solution, similar to existing ones. The Employee refused to take it and preferred to go with coding.
+The Employee came to the meeting to get “approval” from RM
+
+
+  
